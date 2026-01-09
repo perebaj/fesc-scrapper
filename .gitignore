@@ -1,0 +1,4 @@
+.env
+fesc-scrapper
+scrapper.log
+*.log
